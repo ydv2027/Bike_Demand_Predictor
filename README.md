@@ -1,9 +1,9 @@
 # 🚲 Bike Demand Prediction App
 
 ## 📌 Overview
-The **Bike Demand Prediction App** is a **Streamlit-based** web application that forecasts the demand for rental bikes based on weather conditions, time of day, and seasonal factors. It utilizes a **trained machine learning model** and real-time weather data from the **OpenWeather API** to provide accurate predictions.  
+The Bike Demand Prediction App is a machine learning-based web application designed to forecast bike rental demand based on various features such as weather conditions, time of day, seasonality, and holidays. The app integrates a trained XGBoost model with real-time weather data from the OpenWeather API and is deployed using Streamlit Cloud.
 
-🔗 **Live Demo (if applicable)**: 
+🔗 **Live Demo**: 
 
 ---![Websiteimage](https://github.com/user-attachments/assets/434ca73b-6b42-4fb4-9b5a-59d92a5462a7)
 
@@ -19,7 +19,7 @@ The **Bike Demand Prediction App** is a **Streamlit-based** web application that
 ## 🛠 Tech Stack  
 - **Python** 🐍  
 - **Streamlit** 🎨  
-- **Pandas, NumPy ,scikit-learn** 🏗  
+- **Pandas, NumPy ,scikit-learn,Matplotlib & Seaborn** 🏗  
 - **Machine Learning (XGBoost)** 🤖  
 - **OpenWeather API** ☁  
 - **CSS (for Styling)** 🎨  
